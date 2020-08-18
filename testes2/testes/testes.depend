@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1597444443 source:/home/hussyvel/Documents/c++/testes2/testes/main.cpp
+	<iostream>
+
+1597445243 source:/home/hussyvel/Documents/c++/testes2/testes/prog1.cpp
+	<iostream>
+
