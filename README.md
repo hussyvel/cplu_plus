@@ -1,3 +1,3 @@
-#Este repositório contém programas em C/C++ do ebook " c/c++ a bíblia"
+#Este repositório contém programas em C/C++ do ebook " c/c++ a bíblia" do Cris Jamsa
 
-# cplu_plus
+
