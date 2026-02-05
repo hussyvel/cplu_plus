@@ -17,6 +17,7 @@ int main(){
 
 	int div = num2 / 3;
 	printf(" %i\n", div);
+	printf("atualização programa em C!!!");
 
 	return 0;
 }
